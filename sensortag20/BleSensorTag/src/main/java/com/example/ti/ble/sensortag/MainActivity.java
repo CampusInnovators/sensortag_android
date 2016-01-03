@@ -1,3 +1,4 @@
+//this is where scan for bt device takes place
 /**************************************************************************************************
   Filename:       MainActivity.java
   Revised:        $Date: Wed Apr 22 13:01:34 2015 +0200$
